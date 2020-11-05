@@ -38,6 +38,18 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -55,6 +67,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Global Libraries" />
@@ -128,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604608813618</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Settings">
+      <created>1604609057310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604609057310</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,9 +164,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New project created. TravelEurope object." />
-    <option name="LAST_COMMIT_MESSAGE" value="New project created. TravelEurope object." />
+    <MESSAGE value="Settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Settings" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="262" y="41" key="MergeDialog" timestamp="1604609206380">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="262" y="41" key="MergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604609206380" />
+    <state x="575" y="129" width="616" height="519" key="MultipleFileMergeDialog" timestamp="1604609219758">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="575" y="129" width="616" height="519" key="MultipleFileMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1604609219758" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1604608484672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

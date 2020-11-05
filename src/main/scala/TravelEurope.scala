@@ -3,7 +3,7 @@
 //TRAVEL PROBLEM
 object TravelEurope extends App {
   //First of all we are going to write the cities as List[List[(String,Int,Int)]] so that we can use
-  // the List predefined functions
+  // the List predefined functions.
   val cities: List[List[(String, Int, Int)]] = List(
     List(("Madrid", 0, 0), ("London", 47, -12), ("Paris", 52, -12), ("Rome", 35, -15)),
     List(("London", 0, 0), ("Madrid", 0, -12), ("Paris", 52, -6), ("Berlin", 18, -17), ("Moscow", 50, -39)),
