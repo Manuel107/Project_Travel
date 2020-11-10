@@ -16,7 +16,7 @@ Madrid – London – Paris – Berlin – Rome – Madrid : 152 – 55 = 97
 - If two or more routes produce the same score, the optimal route will be the shortest route.
 
 
-![Europe Roadmap](src/main/resources/europe-roadmap.gif)
+![Europe Roadmap](src/main/scala/europe-roadmap.gif)
 
 ## Challenge rules:
 - We challenge you to write an application to find the optimal route given the inputs:
