@@ -1,3 +1,4 @@
-[debug] not up to date. inChanged = true, force = false
-[debug] Updating ProjectRef(uri("file:/C:/GIT/Project_Travel/"), "project_travel")...
-[debug] Done updating ProjectRef(uri("file:/C:/GIT/Project_Travel/"), "project_travel")
+[warn] scala-library-2.12.11-sources.jar no longer exists at C:\Users\manuel nuñez\AppData\Local\Coursier\cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.12.11\scala-library-2.12.11-sources.jar
+[debug] not up to date. inChanged = false, force = false
+[debug] Updating ProjectRef(uri("file:/C:/Users/talmu/Documents/Git_Projects/Project_Travel/"), "project_travel")...
+[debug] Done updating ProjectRef(uri("file:/C:/Users/talmu/Documents/Git_Projects/Project_Travel/"), "project_travel")
